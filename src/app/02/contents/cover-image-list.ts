@@ -10,6 +10,7 @@ export const COVER_IMAGE_LIST: CoverImage[] = [
     src: Cover1,
     id: "1",
     hiddenSrc: HiddenCover1,
+    disabled: true,
   },
   {
     src: Cover2,
